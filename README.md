@@ -11,7 +11,7 @@
 
 - ⚡ fun fact **sorry but theres nothing fun about me**
 
-- ♥ partial by Steve Nguyen
+- ♥ partial by **Steve Nguyen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

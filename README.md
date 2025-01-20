@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mai Truong</h1>
-<h3 align="center">A student at St. Ambrose University</h3>
+<h3 align="center">A student at University of Denver</h3>
 
 - 🌱 im currently learning **everything :)**
 

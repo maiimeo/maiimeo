@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mai Truong</h1>
-<h3 align="center">A student at University of Denver</h3>
+<h1 align="center">Hello, I'm Mai Truong 👋</h1> 
+<h3 align="center">Graduate Student at the University of Denver | Data Science Enthusiast</h3>
 
-- 🌱 im currently learning **everything :)**
 
-- 👨‍💻 all of my projects are available at [https://github.com/maiimeo](https://github.com/maiimeo)
+- 🌱 Currently learning Data Science, Machine Learning, and AI
 
-- 💬 ask me about **anything you want :3**
+- 👨‍💻 All of my projects are available at [https://github.com/maiimeo](https://github.com/maiimeo)
 
-- 📫 how to reach me **maittruonq@gmail.com**
+- 💬 Ask me about **anything you want :3**
 
-- ⚡ fun fact **sorry but theres nothing fun about me**
+- 📫 Feel free to reach out via maittruonq@gmail.com
 
-- ♥ partial by **Steve Nguyen**
+- ⚡ Fun fact **i feel lazy to cook but i cook everyday**
+
+- ♥ I love **spending time with family** and go out to **explore the world** around me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
